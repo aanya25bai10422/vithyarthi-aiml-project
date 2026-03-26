@@ -1,1 +1,1 @@
-# vithyarthi-aiml-project
+vithyarthi-cs-project
