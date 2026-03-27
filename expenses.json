@@ -1,1 +1,20 @@
-
+[
+    {
+        "name": "Coffee",
+        "amount": 50,
+        "date": "2026-01-11",
+        "category": "Food"
+    },
+    {
+        "name": "Grocery",
+        "amount": 2000,
+        "date": "2026-01-12",
+        "category": "Food"
+    },
+    {
+        "name": "Gas",
+        "amount": 500,
+        "date": "2026-01-10",
+        "category": "Transport"
+    }
+]
