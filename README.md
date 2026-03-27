@@ -46,16 +46,17 @@ cd expense-tracker
 ### **2. Install Python**
 
 Make sure you have Python installed.
-Check version:
-'''
+* Check version:
+
+```
 python –version
-'''
+```
 
 ### **3. Run the Program**
 
-'''
+```
 code.py
-'''
+```
 
 ---
 
@@ -76,8 +77,11 @@ code.py
 *	Category (Food, Transport, etc.) 
 
 🔹 View Expenses
-*	Displays all saved expenses like: 
-*	2026-03-26 - Lunch: Rs 200[Food]
+*	Displays all saved expenses like:
+
+  ```
+	2026-03-26 - Lunch: Rs 200[Food]
+  ```
 
 🔹 Edit Expense
 *	Select expense number 
@@ -94,8 +98,8 @@ code.py
 ## 💾 Data Storage
 *	All expenses are stored in:
 
-'''
+```
 expenses.json
-'''
+```
 
 
