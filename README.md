@@ -20,12 +20,12 @@ It is designed to demonstrate basic Python concepts like file handling and user 
 
 ## 📌 Features 
 
-•	Add new expenses with category  
-•	View all saved expenses 
-•	Edit existing expenses 
-•	Delete expenses
-•	 Automatic saving using JSON file
-•	 Persistent storage (data saved even after closing program) 
+*•	Add new expenses with category  
+*•	View all saved expenses 
+*•	Edit existing expenses 
+*•	Delete expenses
+*•	 Automatic saving using JSON file
+*•	 Persistent storage (data saved even after closing program) 
 
 ---
 
