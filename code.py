@@ -22,7 +22,7 @@ def save_expenses(filename, expenses):
 def add_expense(expenses):
     print("\nEnter Expense Details:")
     name = input("Enter Name: ")
-    amount = float(input("Amount: $"))
+    amount = float(input("Amount: Rs"))
     date = input("Date (YYYY-MM-DD): ")
 
     # Prompt user for a category
