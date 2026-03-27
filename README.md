@@ -39,11 +39,10 @@ It is designed to demonstrate basic Python concepts like file handling and user 
 
 ## ⚙️ Setup Instructions
 ### **1. Clone the Repository** 
-'''
-git clone https://github.com/ aanya25bai10422/vithyarthi-aiml-project.git
+```
+git clone https://github.com/aanya25bai10422/vithyarthi-aiml-project.git
 cd expense-tracker
-'''
-
+```
 ### **2. Install Python**
 
 Make sure you have Python installed.
