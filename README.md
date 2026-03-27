@@ -20,20 +20,20 @@ It is designed to demonstrate basic Python concepts like file handling and user 
 
 ## 📌 Features 
 
-*•	Add new expenses with category  
-*•	View all saved expenses 
-*•	Edit existing expenses 
-*•	Delete expenses
-*•	 Automatic saving using JSON file
-*•	 Persistent storage (data saved even after closing program) 
+* Add new expenses with category  
+* View all saved expenses 
+*	Edit existing expenses 
+* Delete expenses
+*	Automatic saving using JSON file
+* Persistent storage (data saved even after closing program) 
 
 ---
 
 ## 🛠️ Technologies / Tools Used 
-•	Python 3 – Core programming language
-•	 JSON – Data storage for saving expenses
-•	 Command Line Interface (CLI) – User interaction
-•	 Built-in Python Functions – File handling, input/output operations
+* Python 3 – Core programming language
+* JSON – Data storage for saving expenses
+* Command Line Interface (CLI) – User interaction
+* Built-in Python Functions – File handling, input/output operations
 
 ---
 
@@ -63,37 +63,37 @@ code.py
 ## ▶️ How to Use
 Once you run the program, you will see a menu:
 Expense Tracker
-*1. Add Expense
-*2. View Expenses
-*3. Edit Expense
-*4. Delete Expense
-*5. Exit
+* Add Expense
+* View Expenses
+* Edit Expense
+* Delete Expense
+* Exit
 
 #🔹 Add Expense
 •	Enter: 
-*o	Name 
-*o	Amount 
-*o	Date (YYYY-MM-DD) 
-*o	Category (Food, Transport, etc.) 
+*	Name 
+*	Amount 
+*	Date (YYYY-MM-DD) 
+*	Category (Food, Transport, etc.) 
 
 #🔹 View Expenses
 •	Displays all saved expenses like: 
-*1.	2026-03-26 - Lunch: Rs 200[Food]
+*	2026-03-26 - Lunch: Rs 200[Food]
 
 #🔹 Edit Expense
-*•	Select expense number 
-*•	Update details (leave blank to keep old values)
+*	Select expense number 
+*	Update details (leave blank to keep old values)
 
 #🔹 Delete Expense
-*•	Select expense number to remove it
+*	Select expense number to remove it
 
 #🔹 Exit
-*•	Saves all data and exits program
+*	Saves all data and exits program
 
 ---
 
 ## 💾 Data Storage
-*•	All expenses are stored in:
+*	All expenses are stored in:
 
 '''
 expenses.json
