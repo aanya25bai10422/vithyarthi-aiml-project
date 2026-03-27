@@ -61,33 +61,33 @@ code.py
 ---
 
 ## ▶️ How to Use
-Once you run the program, you will see a menu:
-Expense Tracker
+* Once you run the program, you will see a menu:
+* Expense Tracker
 * Add Expense
 * View Expenses
 * Edit Expense
 * Delete Expense
 * Exit
 
-#🔹 Add Expense
-•	Enter: 
+🔹 Add Expense
+*	Enter: 
 *	Name 
 *	Amount 
 *	Date (YYYY-MM-DD) 
 *	Category (Food, Transport, etc.) 
 
-#🔹 View Expenses
-•	Displays all saved expenses like: 
+🔹 View Expenses
+*	Displays all saved expenses like: 
 *	2026-03-26 - Lunch: Rs 200[Food]
 
-#🔹 Edit Expense
+🔹 Edit Expense
 *	Select expense number 
 *	Update details (leave blank to keep old values)
 
-#🔹 Delete Expense
+🔹 Delete Expense
 *	Select expense number to remove it
 
-#🔹 Exit
+🔹 Exit
 *	Saves all data and exits program
 
 ---
